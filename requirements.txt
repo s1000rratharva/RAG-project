@@ -1,0 +1,15 @@
+uvicorn
+fastapi
+streamlit
+pypdf
+python-dotenv
+langchain
+langgraph
+langchain-text-splitters
+chromadb
+sentence-transformers
+langchain-groq
+pypdf
+python-dotenv
+scikit-learn
+groq

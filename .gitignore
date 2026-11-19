@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+.env.*
+
+# Local vector database
+chroma_db/
+notebooks/chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+rag_project/
